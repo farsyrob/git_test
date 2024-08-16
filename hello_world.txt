@@ -1,1 +1,3 @@
 Some text to IT.
+
+I will now try commiting with VS Code.
